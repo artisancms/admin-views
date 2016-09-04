@@ -1,5 +1,5 @@
 {
-    "name": "artisancms/views",
+    "name": "artisancms/admin-views",
     "description": "Admin Views for ArtisanCMS",
     "type": "library",
     "license": "MIT",
