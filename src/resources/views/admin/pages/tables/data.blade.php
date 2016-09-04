@@ -1,4 +1,4 @@
-@extends('vendor.admin.layouts.starter')
+@extends('admin::layouts.starter')
 
 @section('styles')
     <!-- DataTables -->

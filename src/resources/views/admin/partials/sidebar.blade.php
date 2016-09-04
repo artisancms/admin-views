@@ -28,7 +28,7 @@
 
       <!-- Sidebar Menu -->
       <ul class="sidebar-menu">
-        @include('vendor.admin.partials.sidebar-nav')
+        @include('admin::partials.sidebar-nav')
       </ul><!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->

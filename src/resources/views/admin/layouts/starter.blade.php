@@ -56,18 +56,18 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <div class="wrapper">
 
       <!-- Main Header -->
-      @include('vendor.admin.partials.header')
+      @include('admin::partials.header')
       <!-- Left side column. contains the logo and sidebar -->
-      @include('vendor.admin.partials.sidebar')
+      @include('admin::partials.sidebar')
 
       <!-- Content Wrapper. Contains page content -->
-      @include('vendor.admin.partials.content')
+      @include('admin::partials.content')
 
       <!-- Main Footer -->
-      @include('vendor.admin.partials.footer')
+      @include('admin::partials.footer')
 
       <!-- Control Sidebar -->
-      @include('vendor.admin.partials.settings-sidebar')
+      @include('admin::partials.settings-sidebar')
       <!-- /.control-sidebar -->
       <!-- Add the sidebar's background. This div must be placed
            immediately after the control sidebar -->

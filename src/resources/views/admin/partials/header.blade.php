@@ -9,5 +9,5 @@
     </a>
 
     <!-- Header Navbar -->
-    @include('vendor.admin.partials.nav')
+    @include('admin::partials.nav')
 </header>

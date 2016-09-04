@@ -1,4 +1,4 @@
-@extends('vendor.admin.layouts.login')
+@extends('admin::layouts.login')
 
 @section('content')
     <div class="login-box">
