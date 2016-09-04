@@ -9,5 +9,10 @@
             "email": "andrewhuggins@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ArtisanCMS\\AdminViews\\": "src/"
+        }
+    }
 }
