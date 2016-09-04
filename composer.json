@@ -1,0 +1,13 @@
+{
+    "name": "artisancms/views",
+    "description": "Admin Views for ArtisanCMS",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew huggins",
+            "email": "andrewhuggins@gmail.com"
+        }
+    ],
+    "require": {}
+}
