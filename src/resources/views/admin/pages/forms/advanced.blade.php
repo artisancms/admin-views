@@ -329,37 +329,37 @@
 
 @section('styles')
     <!-- daterange picker -->
-    <link rel="stylesheet" href="/plugins/daterangepicker/daterangepicker-bs3.css">
+    <link rel="stylesheet" href="/cms/plugins/daterangepicker/daterangepicker-bs3.css">
     <!-- iCheck for checkboxes and radio inputs -->
-    <link rel="stylesheet" href="/plugins/iCheck/all.css">
+    <link rel="stylesheet" href="/cms/plugins/iCheck/all.css">
     <!-- Bootstrap Color Picker -->
-    <link rel="stylesheet" href="/plugins/colorpicker/bootstrap-colorpicker.min.css">
+    <link rel="stylesheet" href="/cms/plugins/colorpicker/bootstrap-colorpicker.min.css">
     <!-- Bootstrap time Picker -->
-    <link rel="stylesheet" href="/plugins/timepicker/bootstrap-timepicker.min.css">
+    <link rel="stylesheet" href="/cms/plugins/timepicker/bootstrap-timepicker.min.css">
     <!-- Select2 -->
-    <link rel="stylesheet" href="/plugins/select2/select2.min.css">
+    <link rel="stylesheet" href="/cms/plugins/select2/select2.min.css">
 @stop
 
 @section('scripts')
     <!-- Select2 -->
-    <script src="/admin/plugins/select2/select2.full.min.js"></script>
+    <script src="/cms/plugins/select2/select2.full.min.js"></script>
     <!-- InputMask -->
-    <script src="/admin/plugins/input-mask/jquery.inputmask.js"></script>
-    <script src="/admin/plugins/input-mask/jquery.inputmask.date.extensions.js"></script>
-    <script src="/admin/plugins/input-mask/jquery.inputmask.extensions.js"></script>
+    <script src="/cms/plugins/input-mask/jquery.inputmask.js"></script>
+    <script src="/cms/plugins/input-mask/jquery.inputmask.date.extensions.js"></script>
+    <script src="/cms/plugins/input-mask/jquery.inputmask.extensions.js"></script>
     <!-- date-range-picker -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
-    <script src="/admin/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="/cms/plugins/daterangepicker/daterangepicker.js"></script>
     <!-- bootstrap color picker -->
-    <script src="/admin/plugins/colorpicker/bootstrap-colorpicker.min.js"></script>
+    <script src="/cms/plugins/colorpicker/bootstrap-colorpicker.min.js"></script>
     <!-- bootstrap time picker -->
-    <script src="/admin/plugins/timepicker/bootstrap-timepicker.min.js"></script>
+    <script src="/cms/plugins/timepicker/bootstrap-timepicker.min.js"></script>
     <!-- SlimScroll 1.3.0 -->
-    <script src="/admin/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="/cms/plugins/slimScroll/jquery.slimscroll.min.js"></script>
     <!-- iCheck 1.0.1 -->
-    <script src="/admin/plugins/iCheck/icheck.min.js"></script>
+    <script src="/cms/plugins/iCheck/icheck.min.js"></script>
     <!-- FastClick -->
-    <script src="/admin/plugins/fastclick/fastclick.min.js"></script>
+    <script src="/cms/plugins/fastclick/fastclick.min.js"></script>
     
     <!-- Page script -->
     <script>

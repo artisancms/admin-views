@@ -30,13 +30,13 @@
     
 @section('scripts')
     <!-- jQuery 2.1.4 -->
-    <script src="/admin/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+    <script src="/cms/plugins/jQuery/jQuery-2.1.4.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
-    <script src="/admin/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/cms/bootstrap/js/bootstrap.min.js"></script>
     <!-- FastClick -->
-    <script src="/admin/plugins/fastclick/fastclick.min.js"></script>
+    <script src="/cms/plugins/fastclick/fastclick.min.js"></script>
     <!-- AdminLTE App -->
-    <script src="/admin/dist/js/app.min.js"></script>
+    <script src="/cms/dist/js/app.min.js"></script>
     <!-- AdminLTE for demo purposes -->
-    <script src="/admin/dist/js/demo.js"></script>
+    <script src="/cms/dist/js/demo.js"></script>
 @stop

@@ -2,7 +2,7 @@
 
 @section('styles')
     <!-- DataTables -->
-    <link rel="stylesheet" href="/admin/plugins/datatables/dataTables.bootstrap.css">
+    <link rel="stylesheet" href="/cms/plugins/datatables/dataTables.bootstrap.css">
 @stop
 
 @section('content-header')
@@ -886,16 +886,16 @@
 
 @section('scripts')
     <!-- DataTables -->
-    <script src="/admin/plugins/datatables/jquery.dataTables.min.js"></script>
-    <script src="/admin/plugins/datatables/dataTables.bootstrap.min.js"></script>
+    <script src="/cms/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="/cms/plugins/datatables/dataTables.bootstrap.min.js"></script>
     <!-- SlimScroll -->
-    <script src="/admin/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="/cms/plugins/slimScroll/jquery.slimscroll.min.js"></script>
     <!-- FastClick -->
-    <script src="/admin/plugins/fastclick/fastclick.min.js"></script>
+    <script src="/cms/plugins/fastclick/fastclick.min.js"></script>
     <!-- AdminLTE App -->
-    <script src="/admin/dist/js/app.min.js"></script>
+    <script src="/cms/dist/js/app.min.js"></script>
     <!-- AdminLTE for demo purposes -->
-    <script src="/admin/dist/js/demo.js"></script>
+    <script src="/cms/dist/js/demo.js"></script>
     <!-- page script -->
     <script>
       $(function () {

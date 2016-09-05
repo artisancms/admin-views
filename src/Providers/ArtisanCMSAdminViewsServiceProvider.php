@@ -16,7 +16,7 @@ class ArtisanCMSAdminViewsServiceProvider extends ServiceProvider
         $this->loadViewsFrom(__DIR__.'/../resources/views/admin', 'admin');
 
         $this->publishes([
-            __DIR__.'/../public/' => public_path('admin')
+            __DIR__.'/../public/' => public_path('cms')
         ], 'public');
     }
 

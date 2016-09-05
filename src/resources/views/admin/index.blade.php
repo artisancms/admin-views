@@ -432,15 +432,15 @@
 
 @section('styles')
     <!-- Morris chart -->
-    <link rel="stylesheet" href="plugins/morris/morris.css">
+    <link rel="stylesheet" href="/cms/plugins/morris/morris.css">
     <!-- jvectormap -->
-    <link rel="stylesheet" href="plugins/jvectormap/jquery-jvectormap-1.2.2.css">
+    <link rel="stylesheet" href="/cms/plugins/jvectormap/jquery-jvectormap-1.2.2.css">
     <!-- Date Picker -->
-    <link rel="stylesheet" href="plugins/datepicker/datepicker3.css">
+    <link rel="stylesheet" href="/cms/plugins/datepicker/datepicker3.css">
     <!-- Daterange picker -->
-    <link rel="stylesheet" href="plugins/daterangepicker/daterangepicker-bs3.css">
+    <link rel="stylesheet" href="/cms/plugins/daterangepicker/daterangepicker-bs3.css">
     <!-- bootstrap wysihtml5 - text editor -->
-    <link rel="stylesheet" href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+    <link rel="stylesheet" href="/cms/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
 @stop
 
 @section('scripts')
@@ -449,28 +449,28 @@
       $.widget.bridge('uibutton', $.ui.button);
     </script>
     <!-- Bootstrap 3.3.5 -->
-    <script src="/admin/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/cms/bootstrap/js/bootstrap.min.js"></script>
     <!-- Morris.js charts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-    <script src="/admin/plugins/morris/morris.min.js"></script>
+    <script src="/cms/plugins/morris/morris.min.js"></script>
     <!-- Sparkline -->
-    <script src="/admin/plugins/sparkline/jquery.sparkline.min.js"></script>
+    <script src="/cms/plugins/sparkline/jquery.sparkline.min.js"></script>
     <!-- jvectormap -->
-    <script src="/admin/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-    <script src="/admin/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+    <script src="/cms/plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
+    <script src="/cms/plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
     <!-- jQuery Knob Chart -->
-    <script src="/admin/plugins/knob/jquery.knob.js"></script>
+    <script src="/cms/plugins/knob/jquery.knob.js"></script>
     <!-- daterangepicker -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.2/moment.min.js"></script>
-    <script src="/admin/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="/cms/plugins/daterangepicker/daterangepicker.js"></script>
     <!-- datepicker -->
-    <script src="/admin/plugins/datepicker/bootstrap-datepicker.js"></script>
+    <script src="/cms/plugins/datepicker/bootstrap-datepicker.js"></script>
     <!-- Bootstrap WYSIHTML5 -->
-    <script src="/admin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+    <script src="/cms/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
     
-    <script src="/admin/plugins/slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="/cms/plugins/slimScroll/jquery.slimscroll.min.js"></script>
 
-    <script src="/admin/plugins/fastclick/fastclick.js"></script>
+    <script src="/cms/plugins/fastclick/fastclick.js"></script>
     <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
-    <script src="/admin/dist/js/pages/dashboard.js"></script>
+    <script src="/cms/dist/js/pages/dashboard.js"></script>
 @stop
