@@ -26,10 +26,7 @@
       </form>
       <!-- /.search form -->
 
-      <!-- Sidebar Menu -->
-      <ul class="sidebar-menu">
-        @include('admin::partials.sidebar-nav')
-      </ul><!-- /.sidebar-menu -->
+      @include('admin::partials.sidebar-nav')
     </section>
     <!-- /.sidebar -->
   </aside>
