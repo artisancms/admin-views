@@ -3,7 +3,7 @@
 @section('content')
     <div class="login-box">
         <div class="login-logo">
-            <a href="{{ config('artisancms.title', env('APP_URL')) }}">
+            <a href="{{ config('artisancms.site.url') }}">
                 {!! config('artisancms.title', '<b>Artisan</b>CMS') !!}
             </a>
         </div><!-- /.login-logo -->
@@ -26,7 +26,7 @@
                     <div class="col-xs-8">
                         <div class="checkbox icheck">
                             <label>
-                                <input type="checkbox"> Remember Me
+                                <input type="checkbox" name="remember"> Remember Me
                             </label>
                         </div>
                     </div><!-- /.col -->
